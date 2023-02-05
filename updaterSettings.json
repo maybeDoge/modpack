@@ -3,5 +3,10 @@
   "resetConfig": false,
   "updaterUpdated": true,
   "updaterVersion": 1.0,
-  "string": "Null"
+  "string": [{
+    "line0": " ChangeLog ",
+    "line1": "Se han agregado mods de performance al cliente",
+    "line2": "Se han corregido bugs en el servidor",
+    "line3": "Es todo por ahora, gracias por actualizar"
+  }]
 }
